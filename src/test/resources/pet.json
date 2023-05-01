@@ -1,0 +1,13 @@
+{
+  "pet" : "cat",
+  "name": "Barsik",
+  "hobbies" :
+  [
+    "running",
+    "jumping"
+  ],
+  "meal" : {
+    "morning" : "fish",
+    "evening" : "milk"
+  }
+}
